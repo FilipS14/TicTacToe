@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=TicTacToeSwing
+comment1.params=
+comment1.target=TicTacToeSwing()
+comment10.params=
+comment10.target=void\ restartGame()
+comment11.params=g
+comment11.target=void\ paintComponent(java.awt.Graphics)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=row\ col
+comment2.target=void\ makeMove(int,\ int)
+comment3.params=
+comment3.target=void\ computerMove()
+comment4.params=currentState
+comment4.target=int[]\ minimax(javax.swing.JButton[][])
+comment5.params=currentState
+comment5.target=boolean\ checkForWin(javax.swing.JButton[][])
+comment6.params=currentState\ isMaximizing
+comment6.target=int\ minimaxHelper(javax.swing.JButton[][],\ boolean)
+comment7.params=currentState
+comment7.target=boolean\ isBoardFull(javax.swing.JButton[][])
+comment8.params=
+comment8.target=void\ showWinnerDialog()
+comment9.params=
+comment9.target=void\ showDrawDialog()
+numComments=13
