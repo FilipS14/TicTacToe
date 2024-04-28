@@ -1,1 +1,1 @@
-# TicTacToe
+# TicTacToe - Minimax algorithm
